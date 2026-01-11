@@ -1,4 +1,4 @@
-# Example-4
+# Example-5
 
 Example number 4 from Chapter 5 of [Bootstrapping Microservices](https://www.bootstrapping-microservices.com).
 
